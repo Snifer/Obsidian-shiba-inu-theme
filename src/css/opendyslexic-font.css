@@ -1,0 +1,18 @@
+@font-face {
+  font-family: 'OpenDyslexic';
+  src: url('https://raw.githubusercontent.com/Snifer/Obsidian-shiba-inu-theme-NG/main/assets/font/OpenDyslexic-Regular.woff') format('woff'),
+       url('https://raw.githubusercontent.com/Snifer/Obsidian-shiba-inu-theme-NG/main/assets/font/OpenDyslexic-Regular.ttf') format('opentype');
+       font-weight: 300 900;
+       font-display: swap;
+       font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'OpenDyslexic-Italic';
+  src: url('https://raw.githubusercontent.com/Snifer/Obsidian-shiba-inu-theme/main/assets/font/OpenDyslexic-Italic.woff') format('woff'),
+       url('https://raw.githubusercontent.com/Snifer/Obsidian-shiba-inu-theme/main/assets/font/OpenDyslexic-Italic.ttf') format('opentype');
+       font-weight: 300;
+       font-display: swap;
+       font-style: italic;
+}
