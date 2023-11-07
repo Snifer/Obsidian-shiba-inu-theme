@@ -23,6 +23,8 @@ https://github.com/faroukx/obsidian-homepage
 
 
 */
+
+
 @import url(https://raw.githubusercontent.com/Snifer/Obsidian-shiba-inu-theme-NG/main/src/css/headers-fonts.css);
 @import url(https://raw.githubusercontent.com/Snifer/Obsidian-shiba-inu-theme-NG/main/src/css/satoshi-font.css);
 @import url(https://raw.githubusercontent.com/Snifer/Obsidian-shiba-inu-theme-NG/main/src/css/opendyslexic-font.css);
@@ -30,6 +32,7 @@ https://github.com/faroukx/obsidian-homepage
 .is-translucent .workspace, .is-translucent.shib-translucent-center:not(.is-fullscreen) .mod-top .workspace-tab-header-container, .is-translucent.shib-translucent-center:not(.is-fullscreen) .view-header, .is-translucent.shib-translucent-center:not(.is-fullscreen) .workspace .mod-root .workspace-tabs.mod-stacked .workspace-tab-container .workspace-tab-header, .is-translucent.shib-translucent-center:not(.is-fullscreen) .workspace-split.mod-root, .is-translucent.shib-translucent-center:not(.is-fullscreen) .workspace-split.mod-root .view-content, .is-translucent.shib-translucent-center:not(.is-fullscreen) .workspace-tabs, .is-translucent.shib-translucent-center:not(.is-fullscreen) .workspace-tabs .workspace-leaf, .is-translucent.shib-translucent-left:not(.is-fullscreen) .mod-left-split .workspace-tab-header-container, .is-translucent.shib-translucent-left:not(.is-fullscreen) .workspace-ribbon.mod-left, .is-translucent.shib-translucent-left:not(.is-fullscreen) .workspace-ribbon.mod-left:before, .is-translucent.shib-translucent-right:not(.is-fullscreen) .mod-right-split .workspace-tab-header-container, body.is-translucent {
 	background-color: transparent
 }
+
 
 body {
 	--card-background-color: rgb(var(--exterior));
@@ -4466,7 +4469,7 @@ body:not(.shiba-remove-file-icons) .nav-file-title.is-active[data-path$=".md"]>.
 }
 
 .shib-workspace-background-image-toggle.background-settings-workplace-theme-light-cute-town-l.theme-light {
-	--cute-town-l: url('https://github.com/Snifer/aesthetic-wallpapers/blob/main/shibainu/cute-town.png?raw=true');
+	--cute-town-l: url('https://github.com/faroukx/aesthetic-wallpapers/blob/main/shibainu/cute-town.png?raw=true');
 	--shib-background-image: var(--cute-town-l)
 }
 
@@ -4476,22 +4479,22 @@ body:not(.shiba-remove-file-icons) .nav-file-title.is-active[data-path$=".md"]>.
 }
 
 .shib-workspace-background-image-toggle.background-settings-workplace-theme-light-robot.theme-light {
-	--robot: url('https://github.com/Snifer/aesthetic-wallpapers/blob/main/shibainu/robot.jpg?raw=true');
+	--robot: url('https://github.com/faroukx/aesthetic-wallpapers/blob/main/shibainu/robot.jpg?raw=true');
 	--shib-background-image: var(--robot)
 }
 
 .shib-workspace-background-image-toggle.background-settings-workplace-theme-light-neocity.theme-light {
-	--neocity: url('https://github.com/Snifer/aesthetic-wallpapers/blob/main/shibainu/neocity.png?raw=true');
+	--neocity: url('https://github.com/faroukx/aesthetic-wallpapers/blob/main/shibainu/neocity.png?raw=true');
 	--shib-background-image: var(--neocity)
 }
 
 .shib-workspace-background-image-toggle.background-settings-workplace-mountain-light {
-	--mountain: url('https://github.com/Snifer/aesthetic-wallpapers/blob/main/shibauni/mountain.jpg?raw=true');
+	--mountain: url('https://github.com/faroukx/aesthetic-wallpapers/blob/main/shibauni/mountain.jpg?raw=true');
 	--shib-background-image: var(--mountain)
 }
 
 .shib-workspace-background-image-toggle.background-settings-workplace-mountain2-light {
-	--mountain2:url('https://github.com/Snifer/aesthetic-wallpapers/blob/main/shibainu/mountain2.jpeg?raw=true');
+	--mountain2:url('https://github.com/faroukx/aesthetic-wallpapers/blob/main/shibainu/mountain2.jpeg?raw=true');
 	--shib-background-image: var(--mountain2)
 }
 
@@ -4514,22 +4517,22 @@ body:not(.shiba-remove-file-icons) .nav-file-title.is-active[data-path$=".md"]>.
 }
 
 .shib-workspace-background-image-toggle.background-settings-workplace-theme-dark-cute-town-d.theme-dark {
-	--cute-town-d: url("https://github.com/Snifer/aesthetic-wallpapers/blob/main/shibainu/cute-town-dark%20(2).png?raw=true");
+	--cute-town-d: url("https://github.com/faroukx/aesthetic-wallpapers/blob/main/shibainu/cute-town-dark%20(2).png?raw=true");
 	--shib-background-image: var(--cute-town-d)
 }
 
 .shib-workspace-background-image-toggle.background-settings-workplace-theme-dark-in-the-sky.theme-dark {
-	--in-the-sky: url("https://github.com/Snifer/aesthetic-wallpapers/blob/main/shibainu/in-the-sky.jpg?raw=true");
+	--in-the-sky: url("https://github.com/faroukx/aesthetic-wallpapers/blob/main/shibainu/in-the-sky.jpg?raw=true");
 	--shib-background-image: var(--in-the-sky)
 }
 
 .shib-workspace-background-image-toggle.background-settings-workplace-theme-dark-tokyo.theme-dark {
-	--tokyo: url("https://github.com/Snifer/aesthetic-wallpapers/blob/main/shibainu/tokyo.jpeg?raw=true");
+	--tokyo: url("https://github.com/faroukx/aesthetic-wallpapers/blob/main/shibainu/tokyo.jpeg?raw=true");
 	--shib-background-image: var(--tokyo)
 }
 
 .shib-workspace-background-image-toggle.background-settings-workplace-theme-dark-thunder.theme-dark {
-	--thunder: url("https://github.com/Snifer/aesthetic-wallpapers/blob/main/shibainu/thunder.jpg?raw=true");
+	--thunder: url("https://github.com/faroukx/aesthetic-wallpapers/blob/main/shibainu/thunder.jpg?raw=true");
 	--shib-background-image: var(--thunder)
 }
 
@@ -4549,7 +4552,7 @@ body:not(.shiba-remove-file-icons) .nav-file-title.is-active[data-path$=".md"]>.
 }
 
 .shib-workspace-background-image-toggle.background-settings-workplace-theme-dark-lofi4.theme-dark {
-	--lofi4:url("https://github.com/Snifer/aesthetic-wallpapers/blob/main/shibainu/lofi4.jpg?raw=true");
+	--lofi4:url("https://github.com/faroukx/aesthetic-wallpapers/blob/main/shibainu/lofi4.jpg?raw=true");
 	--shib-background-image: var(--lofi4)
 }
 
@@ -4604,15 +4607,15 @@ body.toggle-bg-panel-page.theme-light:not(.shib-card-layout):is(.nav-files-conta
 }
 
 body.toggle-bg-panel-page.panel-page-bg-theme-dark-robot.theme-dark {
-	--panel-page-background-url-theme: url("https://github.com/Snifer/aesthetic-wallpapers/blob/main/shibainu/robot.jpeg?raw=true")
+	--panel-page-background-url-theme: url("https://github.com/faroukx/aesthetic-wallpapers/blob/main/shibainu/robot.jpeg?raw=true")
 }
 
 body.toggle-bg-panel-page.panel-page-bg-theme-dark-paradise.theme-dark {
-	--panel-page-background-url-theme: url("https://github.com/Snifer/aesthetic-wallpapers/blob/main/shibainu/paradise2.jpeg?raw=true")
+	--panel-page-background-url-theme: url("https://github.com/faroukx/aesthetic-wallpapers/blob/main/shibainu/paradise2.jpeg?raw=true")
 }
 
 body.toggle-bg-panel-page.panel-page-bg-theme-dark-apple.theme-dark {
-	--panel-page-background-url-theme: url("https://github.com/Snifer/aesthetic-wallpapers/blob/main/shibainu/iphone.jpeg?raw=true")
+	--panel-page-background-url-theme: url("https://github.com/faroukx/aesthetic-wallpapers/blob/main/shibainu/iphone.jpeg?raw=true")
 }
 
 body.toggle-bg-panel-page.panel-page-bg-theme-dark-custom.theme-dark {
@@ -4687,6 +4690,7 @@ body.toggle-bg-panel-page.panel-page-bg-theme-light-custom.theme-light {
 	margin: 0 !important
 }
 
+
 /*
 
 Cornell Notes
@@ -4712,7 +4716,7 @@ https://youtube.com/sniferl4bs
 
 /* Styling for the "Resumen" text in the horizontal line */
 .cornell .footnotes>hr:after {
-	content: 'http://www.w3.org/2000/svg';
+	content: 'Summary';
 	color: skyblue;
 	border-bottom: 2px dashed orangered;
 	visibility: visible;
@@ -4882,6 +4886,8 @@ Mod Cornell Vault: Jose Moruno Cadima <sniferl4bs> youtube.com/sniferl4bs */
 
 }
 
+
+
 /* @settings
 name: Shiba Inu Theme
 id: shiba-theme-settings
@@ -4892,8 +4898,10 @@ settings:
   title:  ૮ ºﻌºა Welcome 
   type: info-text
   description:  |
-    Welcome to Shiba Inu theme for Obsidian! If you need any assistance, please [submit an issue](https://github.com/Snifer/Obsidian-shiba-inu-theme-NG/issues) on GitHub.
-    - **[Github](https://github.com/Snifer/Obsidian-shiba-inu-theme-ng)**    
+    Welcome to Shiba Inu theme for Obsidian! If you need any assistance, please [submit an issue](https://github.com/faroukx/Obsidian-shiba-inu-theme/issues) on GitHub.
+    - **[Github](https://github.com/faroukx/Obsidian-shiba-inu-theme)**
+    - **[Obsidian Homepage by Farouk (Tutorial for Shiba Inu)](https://github.com/faroukx/obsidian-homepage)**    
+    - **[Obsidian forum thread for Shiba Inu (Shiba Inu Community)](https://forum.obsidian.md/t/theme-shiba-inu/53395)**     
   markdown: true
 
 #───────────────────────────────────── C O L O R S ──────────────────────────────────────  (Colors Settings)
@@ -5206,7 +5214,6 @@ settings:
             - Raleway
             - Righteous
             - Syne
-            - OpenDyslexic
 -
     id: h1-font
     title: H1 Custom font 
@@ -5403,7 +5410,6 @@ settings:
             - Raleway
             - Righteous
             - Syne
-            - OpenDyslexic
 -
     id: h3-font
     title: H3 Custom font 
@@ -5502,7 +5508,6 @@ settings:
             - Raleway
             - Righteous
             - Syne
-            - OpenDyslexic
 -
     id: h4-font
     title: H4 Custom font 
@@ -5601,7 +5606,6 @@ settings:
             - Raleway
             - Righteous
             - Syne
-            - OpenDyslexic
 -
     id: h5-font
     title: H5 Custom font 
@@ -5700,7 +5704,6 @@ settings:
             - Raleway
             - Righteous
             - Syne
-            - OpenDyslexic
 -
     id: h6-font
     title: H1 Custom font 
@@ -7088,11 +7091,11 @@ settings:
   level: 1
   type: info-text
   description:  |
-    Mantained by [Snifer](https://github.com/Snifer).
+    Created by [Farouk](https://github.com/faroukx).
     
-    If you appreciate the theme, you can support by...
-    - [Buying me a ko-fi](https://ko-fi.com/cerebroerrante) ☕️
-    - [Starring the theme on GitHub](https://github.com/Snifer/Obsidian-shiba-inu-theme-NG) ⭐
+    If you appreciate the theme, you can show your support by...
+    - [Buying me a coffee](https://www.buymeacoffee.com/faroukx) ☕️
+    - [Starring the theme on GitHub](https://github.com/faroukx/Obsidian-shiba-inu-theme) ⭐
     
     If you enjoyed using the theme, consider sharing it with members of the community on the Discord or forum to help grow our community together!    
   markdown: true
